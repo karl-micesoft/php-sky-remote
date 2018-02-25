@@ -1,0 +1,20 @@
+{
+    "name": "mice-soft/php-sky-remote",
+    "description": "Sky TCP remote for PHP",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Karl Wagner",
+            "email": "karl@mice-soft.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/PhpSkyRemote"
+        }
+    }
+}
